@@ -24,14 +24,5 @@ Imagina um mundo onde encontrar o café perfeito é tão fácil quanto digitar a
 2. **Abra o projeto:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a buscar:** Use o campo de pesquisa para encontrar seus cafés preferidos!
 
-**Contribuindo:**
-
-Quer ajudar a melhorar o buscador Manduca? Todos são bem-vindos! Basta criar um fork deste repositório, fazer suas alterações e enviar um pull request.
-
-**Próximos Passos:**
-
-* **Melhorias na busca:** Implementar filtros mais avançados para refinar os resultados.
-* **Integração com redes sociais:** Permitir que os usuários compartilhem seus cafés favoritos nas redes sociais.
-* **Recomendações personalizadas:** Criar um sistema de recomendação baseado no histórico de buscas do usuário.
 
 **Vamos juntos transformar a experiência de buscar cafés!** ☕
